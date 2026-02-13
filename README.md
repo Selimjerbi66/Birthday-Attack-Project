@@ -1,4 +1,4 @@
-# Birthday-Attack-Paradox-Project
+# Birthday-Attack-Project
 # PROJET GESTION DES INTRUSIONS — Étude des Birthday Attacks
 
 Étudiants : SELIM JERBI & MOUNLEON NDAM Ibrahim Khalil & ANDRIAMASINORO FANIRY  
